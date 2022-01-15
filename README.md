@@ -13,7 +13,7 @@ As a developer I'm team player and a problem solver with a drive to deliver high
 - Cloud
 - New front-end technologies and frameworks
   - Currently learning more and more about Vue
-- Looking to improving my skills in back-end
+- Looking into improving my skills in back-end
 
 ## CONTACT:
 - Email: lepola.tommi@gmail.com
